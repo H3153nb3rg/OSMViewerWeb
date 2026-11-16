@@ -1,0 +1,12 @@
+{
+  "name": "osmviewer-web",
+  "version": "1.0.0",
+  "description": "GPX route planner and editor for the browser - zero dependencies",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node serve.mjs",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" }
+}

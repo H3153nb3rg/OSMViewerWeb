@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Startplätze</name>
+	<Placemark>
+		<name>Waldrast</name>
+		<description><![CDATA[<DIV>höhe: 1380m <BR>startrichtung: W,SW <BR>höhendifferenz: 900m <BR>GPS lat : N 46° 49.093 <BR>GPS lon : E 14° 55.634 <BR>webcam: <A href="http://webswk19.bon.at/b287601193/webcam.html">zeigen</A> </DIV>
+<DIV>wetter: <A href="http://webswk19.bon.at/b287601193/current.html">zeigen</A><BR>Das Starten mit dem Pg ist nur in Winter gestattet <BR>&nbsp;</DIV>]]></description>
+		<styleUrl>#style46</styleUrl>
+		<Point>
+			<coordinates>14.929304,46.818916,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Krasji Vrh</name>
+		<description><![CDATA[<DIV>höhe: 1190m</DIV>
+<DIV>startrichtung: SW</DIV>
+<DIV>höhendifferenz: 950m</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH>
+<TD>N 46° 16.942</TD></TD></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH>
+<TD>E 13° 37.765</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style18</styleUrl>
+		<Point>
+			<coordinates>13.629484,46.282902,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Stol</name>
+		<description><![CDATA[<DIV>höhe: 1400m</DIV>
+<DIV>startrichtung: SW,S,SO</DIV>
+<DIV>höhendifferenz: 1150m</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH>
+<TD>N 46° 16.354</TD></TD></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH>
+<TD>E 13° 28.389</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style13</styleUrl>
+		<Point>
+			<coordinates>13.473015,46.273205,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lippekogel</name>
+		<description><![CDATA[<DIV>höhe: 1050m <BR>richtung: O <BR>höhendifferenz: 550m</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH></TH></TH>
+<TD>N 46° 43.818</TD></TD></TD></TD></TR></TR></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH></TH></TH>
+<TD>E 14° 29.985</TD></TD></TD></TD></TR></TR></TR></TR></TBODY></TBODY></TBODY></TBODY></TABLE></DIV>Wenn&nbsp;ein etwas stärkerer&nbsp;ostwind durchs jauntal zieht zahlt es sich auf jeden fall aus mal raufzufahren&nbsp;]]></description>
+		<styleUrl>#style1</styleUrl>
+		<Point>
+			<coordinates>14.498606,46.728802,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Petzen</name>
+		<description><![CDATA[<DIV>höhe: 1700m <BR>startrichtung:N,NO <BR>höhendifferenz:1100 </DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH></TH></TH></TH></TH></TH></TH>
+<TD>N 46° 31.110</TD></TD></TD></TD></TD></TD></TD></TD></TR></TR></TR></TR></TR></TR></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH></TH></TH></TH></TH></TH></TH>
+<TD>E 14° 46.350</TD></TD></TD></TD></TD></TD></TD></TD></TR></TR></TR></TR></TR></TR></TR></TR></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TABLE>club: <A href="http://www.petzenflieger.at/">http://www.petzenflieger.at/</A><BR>webcam: <A href="http://petzen.it-wms.com/">http://petzen.it-wms.com/</A></DIV>]]></description>
+		<styleUrl>#style38</styleUrl>
+		<Point>
+			<coordinates>14.772148,46.519894,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Wandelitze</name>
+		<description><![CDATA[höhe: 1000m
+<br>startrichtung: S (sw)
+<br>höhendifferenz: 500m
+<br>Gut zu Thermikfliegen aber schwierig auf Strecke zu gehen.]]></description>
+		<styleUrl>#style2</styleUrl>
+		<Point>
+			<coordinates>14.642801,46.70261399999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Radsberg</name>
+		<description><![CDATA[<DIV>höhe: 830m <BR>startrichtung: SO <BR>höhendifferenz: <BR>GPS Breite : N 46° 34.351 <BR>GPS Länge : E 14° 24.186 <BR>webcam: <A href="http://www.kgfc.org/webcam/"><FONT color="#810081">zeigen</FONT></A></DIV>
+<DIV>club: <A href="http://www.kgfc.org/">http://www.kgfc.org/</A></DIV>
+<DIV>Ein genialer Berg. Schon in Jänner Toplandungen möglich. Das ganze Jahr ist mit guter Thermik zu rechnen.</DIV>]]></description>
+		<styleUrl>#style26</styleUrl>
+		<Point>
+			<coordinates>14.402776,46.572906,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Goding</name>
+		<description><![CDATA[<DIV>höhe: <BR>startrichtung:W <BR>höhendifferenz:</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH></TH></TH></TH></TH></TH></TH>
+<TD>N 46° 46.706</TD></TD></TD></TD></TD></TD></TD></TD></TR></TR></TR></TR></TR></TR></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH></TH></TH></TH></TH></TH></TH>
+<TD>E 14° 55.260</TD></TD></TD></TD></TD></TD></TD></TD></TR></TR></TR></TR></TR></TR></TR></TR></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TABLE></DIV>
+<DIV>club: <A href="http://www.lgfc.org/">http://www.lgfc.org/</A></DIV>]]></description>
+		<styleUrl>#style24</styleUrl>
+		<Point>
+			<coordinates>14.920292,46.778316,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Nimis- Bernadia</name>
+		<description><![CDATA[höhe: 680m <BR>startrichtung: S <BR>höhendifferenz: 440m <BR>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH>
+<TD>N 46° 13.488</TD></TD></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH>
+<TD>E 13° 15.832</TD></TD></TR></TR></TBODY></TBODY></TABLE>]]></description>
+		<styleUrl>#style53</styleUrl>
+		<Point>
+			<coordinates>13.262966,46.225407,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Koralpe</name>
+		<description><![CDATA[<DIV>höhe: 2000m <BR>startrichtung: SW,W,NW</DIV>
+<DIV>höhendifferenz: 1550m</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH></TH></TH></TH></TH></TH></TH>
+<TD>N 46° 47.452</TD></TD></TD></TD></TD></TD></TD></TD></TR></TR></TR></TR></TR></TR></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH></TH></TH></TH></TH></TH></TH>
+<TD>E 14° 57.301</TD></TD></TD></TD></TD></TD></TD></TD></TR></TR></TR></TR></TR></TR></TR></TR></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TABLE></DIV>
+<DIV>Webcam: <A href="http://livecam.feratel.at/cam/sanktstefan/5050/index.jsp?design=standard4&amp;bgColor1=FFFFFF&amp;bgColor2=D80231&amp;textColor2=FFFFFF&amp;language=de">zeigen</A></DIV>]]></description>
+		<styleUrl>#style54</styleUrl>
+		<Point>
+			<coordinates>14.955654,46.79295,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gemona- cuarnan</name>
+		<description><![CDATA[höhe: 1180m <BR>startrichtung: SO <BR>höhendifferenz: 830m<BR>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS lat :</TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH>
+<TD>N 46° 12.339</TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR>
+<TR>
+<TH>GPS lon :</TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH></TH>
+<TD>E 12° 49.148</TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TD></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TR></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TABLE>
+<DIV>meteodaten: <A href="http://www.gemonaweb.it/?page=iframe.meteo">zeigen<BR></A></DIV>]]></description>
+		<styleUrl>#style7</styleUrl>
+		<Point>
+			<coordinates>13.174238,46.27356000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Obir</name>
+		<description><![CDATA[<DIV>höhe:&nbsp; 2100m<BR>startrichtung: S,SO <BR>höhendifferenz: 1550m</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS lat :</TH></TH>
+<TD>N 46° 30.369</TD></TD></TR></TR>
+<TR>
+<TH>GPS lon :</TH></TH>
+<TD>E 14° 29.220</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>
+<DIV><A href="http://www.verwaltung.ktn.gv.at/33278_DE-Messstationsdaten-Hochobir.65CE57A92994cf0d09c21f494df654eb6810833">li</A>nk: <A href="http://www.verwaltung.ktn.gv.at/33278_DE-Messstationsdaten-Hochobir.65CE57A92994cf0d09c21f494df654eb6810833">winddaten- lawinendienst</A></DIV>
+<DIV>von der Eisenkapplerhütte noch 1,5 stunden bis zum stpl</DIV>]]></description>
+		<styleUrl>#style6</styleUrl>
+		<Point>
+			<coordinates>14.493027,46.502529,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gerlitze</name>
+		<description><![CDATA[<DIV>höhe: 1900m <BR>startrichtung: W,SW,S,SO,O <BR>höhendifferenz: 1350m <BR>GPS lat : N 46° 41.627 <BR>GPS lon : E 13° 54.883 <BR>webcam: <A href="http://www.gerlitzen.com/?cat=maincontent&amp;type=livecam&amp;breit=true&amp;sid=wi&amp;lid=de"><FONT style="background-color:#ffffff" color="#000099">zeigen</FONT></A></DIV>
+<DIV>Dgfc Ossiachersee: <A href="http://www.dgfc-ossiachersee.blogspot.com/">zeigen</A></DIV>
+<DIV>paragleiten 365: <A href="http://www.paragleiten365.net/">http://www.paragleiten365.net/</A></DIV>
+<DIV>Besonders gut zum thermikfliegen, zum streckenfliegen wird er nicht sehr bevorzugt. Bei Urlaub mit Familienanhang ist die Gerl. erste wahl.</DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+		<styleUrl>#style9</styleUrl>
+		<Point>
+			<coordinates>13.913841,46.69455,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ossiachberg</name>
+		<description><![CDATA[<DIV>höhe: 1050m</DIV>
+<DIV>startrichtung: S,SO</DIV>
+<DIV>höhendifferenz: 500m</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS lat :</TH></TH>
+<TD>N 46° 40.088</TD></TD></TR></TR>
+<TR>
+<TH>GPS lon :</TH></TH>
+<TD>E 13° 54.171</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>
+<DIV>Startplatz der flugschule</DIV>
+<DIV><A href="http://www.kaerntner-flugschulen.at/">http://www.kaerntner-flugschulen.at/</A></DIV>]]></description>
+		<styleUrl>#style31</styleUrl>
+		<Point>
+			<coordinates>13.904614,46.669304,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lijak</name>
+		<description><![CDATA[<DIV>höhe: 590m <BR>startrichtung: S,SW <BR>höhendifferenz: 520m <BR>GPS lat : N 45° 57.810 <BR>GPS lon : E 13° 43.396 </DIV>
+<DIV>wettervorhersage: <A href="http://www.bogvetra.com/cgi-bin/eol.cgi?p=vre_teden&amp;loc=nogo">zeigen<BR></A></DIV>]]></description>
+		<styleUrl>#style41</styleUrl>
+		<Point>
+			<coordinates>13.72349,45.963531,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Meduno</name>
+		<description><![CDATA[höhe: 980m
+<br>startrichtung: S,SW
+<br>höhendifferenz: 720m
+<br>GPS lat : N 46° 13.877 
+<br>GPS lon : E 12° 48.518 
+<br>]]></description>
+		<styleUrl>#style50</styleUrl>
+		<Point>
+			<coordinates>12.806625,46.230709,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Aviano</name>
+		<description><![CDATA[höhe:
+<br>startrichtung: S
+<br>höhendifferenz:
+<br>GPS lat : N 46° 05.131 
+<br>GPS lon : E 12° 31.498
+<br>Fliegen ist nur am freitag, samstag u. sonntag erlaubt (militär)
+<br>]]></description>
+		<styleUrl>#style19</styleUrl>
+		<Point>
+			<coordinates>12.530648,46.087074,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Embergeralm</name>
+		<description><![CDATA[<DIV>höhe: 1800m <BR>startrichtung: S <BR>höhendifferenz: 1100m <BR>GPS Breite : N 46° 44.801 <BR>GPS Länge : E 13° 11.585 <BR>webcam: <A href="http://www.embergeralm.at/wetter/">zeigen</A></DIV>
+<DIV>windreporter: <A href="http://www.windreporter.com/windberichte/oesterreich/kaernten/emberger-alm.html?hours=5&amp;kmh=1">zeigen</A></DIV>
+<DIV>webcam LP: <A href="http://greifenburg.it-wms.com/">zeigen</A></DIV>
+<DIV>Der Ausgangspunkt für große Strecken.</DIV>]]></description>
+		<styleUrl>#style36</styleUrl>
+		<Point>
+			<coordinates>13.149219,46.77726,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Jaga</name>
+		<description><![CDATA[<DIV>höhe: 1020m <BR>startrichtung: W,SW <BR>höhendifferenz:550m <BR>GPS Breite : N 46° 50.545 <BR>GPS Länge : E 14° 53.217 <BR>Flugschule: <A href="http://www.skyvalley.at/">zeigen</A></DIV>
+<DIV>club: <A href="http://www.1.kdfc.info/">zeigen</A></DIV>]]></description>
+		<styleUrl>#style29</styleUrl>
+		<Point>
+			<coordinates>14.884157,46.842876,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Thurntaler</name>
+		<description><![CDATA[<DIV>höhe: 2240m</DIV>
+<DIV>startrichtung:W,SW,S,SO,O,NO,N</DIV>
+<DIV>höhendifferenz: 1020m</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH>
+<TD>N 46° 46.080</TD></TD></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH>
+<TD>E 12° 23.460</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>
+<DIV>Flugschule: <A href="http://www.bluesky.at/internet/nav/123/broker">zeigen</A></DIV>]]></description>
+		<styleUrl>#style33</styleUrl>
+		<Point>
+			<coordinates>12.391119,46.76826499999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Stalpe</name>
+		<description><![CDATA[<DIV>höhe: 1085m</DIV>
+<DIV>startrichtung: S,SO</DIV>
+<DIV>höhendifferenz: 500</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH>
+<TD>N 46° 45.543</TD></TD></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH>
+<TD>E 12° 24.915</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style28</styleUrl>
+		<Point>
+			<coordinates>12.421288,46.75644699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Golzentipp</name>
+		<description><![CDATA[<DIV>höhe: 2040m</DIV>
+<DIV>startrichtung: SW,S,SO</DIV>
+<DIV>höhendifferenz: 1100</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH>
+<TD>N 46° 43.169</TD></TD></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH>
+<TD>E 12° 37.689</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style47</styleUrl>
+		<Point>
+			<coordinates>12.625072,46.71946,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Göriach</name>
+		<description><![CDATA[<DIV>höhe: 820m</DIV>
+<DIV>startrichtung: SW,S,SO</DIV>
+<DIV>höhendifferenz: 240</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH>
+<TD>N 46° 51.513</TD></TD></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH>
+<TD>E 13° 23.804</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style48</styleUrl>
+		<Point>
+			<coordinates>13.395295,46.859795,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Zietenkopf</name>
+		<description><![CDATA[<DIV>höhe: 2340m</DIV>
+<DIV>startrichtung: O,SO,S,SW,W</DIV>
+<DIV>höhendifferenz:</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH></TH></TH>
+<TD>N 46° 48.205</TD></TD></TD></TD></TR></TR></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH></TH></TH>
+<TD>E 12° 56.620</TD></TD></TD></TD></TR></TR></TR></TR></TBODY></TBODY></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style3</styleUrl>
+		<Point>
+			<coordinates>12.942495,46.803879,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Guggenberg</name>
+		<description><![CDATA[<DIV>höhe: 1170m <BR>startrichtung: W,SW,S,SO,O <BR>höhendifferenz: 650m <BR>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH>
+<TD>N 46° 38.072</TD></TD></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH>
+<TD>E 13° 18.323</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+		<styleUrl>#style44</styleUrl>
+		<Point>
+			<coordinates>13.309937,46.63435,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ebner Feld</name>
+		<description><![CDATA[<DIV>höhe: 1400m</DIV>
+<DIV>startrichtung: SW,S,SO</DIV>
+<DIV>höhendifferenz: 680m</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH>
+<TD>N 46° 51.155</TD></TD></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH>
+<TD>E 12° 47.698</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style14</styleUrl>
+		<Point>
+			<coordinates>12.794695,46.852856,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hochstein</name>
+		<description><![CDATA[<DIV>höhe: 1970m</DIV>
+<DIV>startrichtung: W</DIV>
+<DIV>höhendifferenz: 820m</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH>
+<TD>N 46° 49.116</TD></TD></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH>
+<TD>E 12° 42.396</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style40</styleUrl>
+		<Point>
+			<coordinates>12.706525,46.818493,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kobala</name>
+		<description><![CDATA[<DIV>höhe: 1060m</DIV>
+<DIV>startrichtung: W,SW,S,SO</DIV>
+<DIV>höhendifferenz: 850m</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH>
+<TD>N 46° 10.835</TD></TD></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH>
+<TD>E 13° 46.715</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style12</styleUrl>
+		<Point>
+			<coordinates>13.778615,46.180603,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Haimburgerberg</name>
+		<description><![CDATA[höhe: 750m
+<br>startrichtung: SW
+<br>höhendifferenz: 250m
+<br>Wenn auf der Wandelitzen zu starker SW od.W. ist kann man hierher ausweichen]]></description>
+		<styleUrl>#style21</styleUrl>
+		<Point>
+			<coordinates>14.673529,46.70261399999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Christofberg</name>
+		<description><![CDATA[höhe:
+<br>startrichtung: NO,O,SO
+<br>höhendifferenz: ca500m
+<br>Alter Startplatz (es wird der Lippekogel bevorzugt)]]></description>
+		<styleUrl>#style22</styleUrl>
+		<Point>
+			<coordinates>14.485817,46.711739,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Wackendorferalm</name>
+		<description><![CDATA[höhe:
+<br>startrichtung: N,NW,W,SW,S
+<br>höhendifferenz:
+<br>Am begin der Strasse befindet sich ein Münzschranken dann der strasse nach bis zur Jausenstation, da kann man starten aber es wird empfohlen ganz auf die Alm zu wandern (ca. 3/4 std.)]]></description>
+		<styleUrl>#style32</styleUrl>
+		<Point>
+			<coordinates>14.73876,46.518124,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Schöckel</name>
+		<description><![CDATA[<DIV>höhe: 1380m</DIV>
+<DIV>startrichtung:SO</DIV>
+<DIV>höhendifferenz: 600m</DIV>
+<DIV>webcam: <A href="http://www.bergfex.at/schoeckel/webcams/">zeigen</A></DIV>
+<DIV>flugschule: <A href="http://www.flugschule-steiermark.at/start/">zeigen</A></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS lat :</TH></TH>
+<TD>N 47° 11.967</TD></TD></TR></TR>
+<TR>
+<TH>GPS lon :</TH></TH>
+<TD>E 15° 28.573</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style4</styleUrl>
+		<Point>
+			<coordinates>15.475445,47.200851,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Speikboden</name>
+		<description><![CDATA[<DIV>höhen: 2400m</DIV>
+<DIV>startrichtung: S,SO</DIV>
+<DIV>höhendifferenz: 1500m</DIV>
+<DIV>webcam: <A href="http://www.speikboden.it/WINTER/index_d_.html">zeigen</A></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS lat :</TH></TH>
+<TD>N 46° 54.670</TD></TD></TR></TR>
+<TR>
+<TH>GPS lon :</TH></TH>
+<TD>E 11° 54.560</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style49</styleUrl>
+		<Point>
+			<coordinates>11.911368,46.90831,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Verano</name>
+		<description><![CDATA[<DIV>höhe: 1160m</DIV>
+<DIV>startrichtung: O</DIV>
+<DIV>höhendifferenz: 920m</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS lat :</TH></TH>
+<TD>N 46° 35.961</TD></TD></TR></TR>
+<TR>
+<TH>GPS lon :</TH></TH>
+<TD>E 11° 13.460</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style11</styleUrl>
+		<Point>
+			<coordinates>11.224165,46.59962500000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Toper</name>
+		<description><![CDATA[<DIV>höhe: 1120m</DIV>
+<DIV>startrichtung: S</DIV>
+<DIV>höhendifferenz: 380m</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS lat :</TH></TH>
+<TD>N 47° 18.215</TD></TD></TR></TR>
+<TR>
+<TH>GPS lon :</TH></TH>
+<TD>E 15° 28.735</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style42</styleUrl>
+		<Point>
+			<coordinates>15.478964,47.303623,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Schlick 2000</name>
+		<description><![CDATA[<DIV>höhe: 2080m</DIV>
+<DIV>startrichtung: S,SO</DIV>
+<DIV>höhendifferenz: 1080m</DIV>
+<DIV>webcam: <A href="http://www.schlick2000.at/sixcms/detail.php?template=pistenplan1_schlick2000">zeigen</A></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS lat :</TH></TH>
+<TD>N 47° 08.701</TD></TD></TR></TR>
+<TR>
+<TH>GPS lon :</TH></TH>
+<TD>E 11° 18.449</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style43</styleUrl>
+		<Point>
+			<coordinates>11.307507,47.145027,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>S.Simeone</name>
+		<description><![CDATA[höhe: 1150m
+<br>startrichtung: S
+<br>höhendifferenz: 950m]]></description>
+		<styleUrl>#style45</styleUrl>
+		<Point>
+			<coordinates>13.100317,46.333973,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bad Kleinkirchheim</name>
+		<description><![CDATA[<DIV>höhe: 2000m</DIV>
+<DIV>startrichtung: NW</DIV>
+<DIV>höhendifferenz: 940m</DIV>
+<DIV>webcam: <A href="http://www.badkleinkirchheim.at/wetter/?lang=de">zeigen</A></DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS lat :</TH></TH>
+<TD>N 46° 47.192</TD></TD></TR></TR>
+<TR>
+<TH>GPS lon :</TH></TH>
+<TD>E 13° 49.661</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+		<styleUrl>#style5</styleUrl>
+		<Point>
+			<coordinates>13.828354,46.78630799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Goldeck</name>
+		<description><![CDATA[höhe: 2100m <BR>startrichtung: NW,W,S,SO,NW <BR>höhendifferenz: 1550m <BR>webcam: <A href="http://www.bergfex.at/goldeck/webcams/">zeigen<BR></A>Berg:46° 45' 30'' N,13° 27' 35'' O]]></description>
+		<styleUrl>#style8</styleUrl>
+		<Point>
+			<coordinates>13.456535,46.758152,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gozd</name>
+		<description><![CDATA[<DIV>höhe: 900m</DIV>
+<DIV>startrichtung: S</DIV>
+<DIV>höhendifferenz: 450m</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH></TH></TH></TH></TH></TH></TH>
+<TD>N 46° 20.390</TD></TD></TD></TD></TD></TD></TD></TD></TR></TR></TR></TR></TR></TR></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH></TH></TH></TH></TH></TH></TH>
+<TD>E 14° 19.790</TD></TD></TD></TD></TD></TD></TD></TD></TR></TR></TR></TR></TR></TR></TR></TR></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style16</styleUrl>
+		<Point>
+			<coordinates>14.329691,46.341297,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Krska</name>
+		<description><![CDATA[<DIV>höhe: 1450m</DIV>
+<DIV>startrichtung: SO</DIV>
+<DIV>höhendifferenz: 1000m</DIV>
+<DIV>
+<TABLE>
+<TBODY>
+<TR>
+<TH>GPS Breite :</TH></TH>
+<TD>N 46° 21.045</TD></TD></TR></TR>
+<TR>
+<TH>GPS Länge :</TH></TH>
+<TD>E 14° 19.923</TD></TD></TR></TR></TBODY></TBODY></TABLE></DIV>]]></description>
+		<styleUrl>#style30</styleUrl>
+		<Point>
+			<coordinates>14.326172,46.350719,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Zettersfeld</name>
+		<description><![CDATA[höhe: 2190m <BR>startrichtung: S,SW <BR>höhendifferenz: 1490m <BR>webcam wetter: <A href="http://www.touristcam.at/externalcam.php?fid=119">zeigen</A> <BR>GPS Breite : N 46° 52.535 <BR>GPS Länge : E 12° 47.230 <BR>]]></description>
+		<styleUrl>#style34</styleUrl>
+		<Point>
+			<coordinates>12.787743,46.875683,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tschirnock</name>
+		<description><![CDATA[höhe: 2120m <BR>startrichtung: S,SW <BR>höhendifferenz:1290m <BR>flugschule: <A href="http://www.flycarinthia.at/frame_e.html">zeigen</A> <BR>GPS Breite : N 46° 50.209 <BR>GPS Länge : E 13° 37.334 <BR>]]></description>
+		<styleUrl>#style37</styleUrl>
+		<Point>
+			<coordinates>13.62236,46.83682600000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Forni Di Sopra</name>
+		<description><![CDATA[höhe: 
+<br>startrichtung: S,SW
+<br>höhendifferenz: 
+<br>Der Lift ist auch in Sommer in Betrieb
+<br>]]></description>
+		<styleUrl>#style20</styleUrl>
+		<Point>
+			<coordinates>12.565484,46.4501,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CTR- Klagenfurt</name>
+		<styleUrl>#style15</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+14.201202,46.761501,0 14.666748,46.66545899999999,0 14.610443,46.53996999999999,0 14.144897,46.635296,0 14.201202,46.761501,0 </coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Krvavec</name>
+		<styleUrl>#style39</styleUrl>
+		<Point>
+			<coordinates>14.532251,46.298264,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Vogar</name>
+		<styleUrl>#style35</styleUrl>
+		<Point>
+			<coordinates>13.872986,46.296898,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Sorica</name>
+		<description><![CDATA[höhe: 1040m
+<br>startrichtung:
+<br>höhendifferenz:
+<br>GPS Breite : N 46° 13.782 
+<br>GPS Länge : E 14° 00.519 
+<br>]]></description>
+		<styleUrl>#style10</styleUrl>
+		<Point>
+			<coordinates>14.008641,46.229786,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kovk</name>
+		<description><![CDATA[höhe: 850m
+<br>startrichtung: S
+<br>höhendifferenz: 700m
+<br>GPS lat : N 45° 53.180 
+<br>GPS lon : E 13° 57.525 
+<br>]]></description>
+		<styleUrl>#style27</styleUrl>
+		<Point>
+			<coordinates>13.958731,45.88634100000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Zauberkogel</name>
+		<description><![CDATA[höhe:
+<br>startrichtung: SW
+<br>höhendifferenz: ca 450m
+<br>Eigentlich wird hier so gut wie nie geflogen. Aber ich denke hier dürfte es bei SW gut gehen da sich direkt vor dem Startplatz ein Graben befindet der sich gut thermisch aufheizt. Ich werde es mal testen und dann auch berichten]]></description>
+		<styleUrl>#style52</styleUrl>
+		<Point>
+			<coordinates>14.600315,46.716267,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Garzette</name>
+		<description><![CDATA[<DIV dir="ltr">höhe: 800m <BR>startrichtung: S <BR>höhendifferenz: 600m <BR>GPS lat : N 46° 16.034 <BR>GPS lon : E 13° 10.407 </DIV>
+<DIV dir="ltr">Meteodaten: <A href="http://www.gemonaweb.it/?page=iframe.meteo">zeigen<BR></A>&nbsp;<BR>&nbsp;</DIV>]]></description>
+		<styleUrl>#style51</styleUrl>
+		<Point>
+			<coordinates>13.173423,46.26718100000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Buzet</name>
+		<description><![CDATA[<div dir="ltr">höhe: 600m
+<br>startrichtung: SW
+<br>höhendifferenz: 400m</div>]]></description>
+		<styleUrl>#style25</styleUrl>
+		<Point>
+			<coordinates>13.965168,45.44508,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kastelier</name>
+		<styleUrl>#style23</styleUrl>
+		<Point>
+			<coordinates>13.668151,45.330872,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Soboth</name>
+		<styleUrl>#style17</styleUrl>
+		<Point>
+			<coordinates>14.985046,46.649323,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

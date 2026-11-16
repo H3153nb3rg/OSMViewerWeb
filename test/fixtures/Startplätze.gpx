@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="GPSBabel - http://www.gpsbabel.org" version="1.1">
+    <metadata>
+        <name>Paragleiten Startplätze Kärnten/Slovenien/Italien</name>
+        <desc>Startplätze</desc>
+        <author>
+            <name>Jim fandango</name>
+        </author>
+        <time>2010-11-07T10:37:58Z</time>
+        <bounds maxlon="15.478964000" maxlat="47.303623000" minlon="11.224165000" minlat="45.330872000"/>
+    </metadata>
+    <wpt lon="14.929304000" lat="46.818916000">
+        <ele>0.000000</ele>
+        <name>Waldrast</name>
+        <cmt>&lt;DIV&gt;höhe: 1380m &lt;BR&gt;startrichtung: W,SW &lt;BR&gt;höhendifferenz: 900m &lt;BR&gt;GPS lat : N 46° 49.093 &lt;BR&gt;GPS lon : E 14° 55.634 &lt;BR&gt;webcam: &lt;A href=&quot;http://webswk19.bon.at/b287601193/webcam.html&quot;&gt;zeigen&lt;/A&gt; &lt;/DIV&gt;
+&lt;DIV&gt;wetter: &lt;A href=&quot;http://webswk19.bon.at/b287601193/current.html&quot;&gt;zeigen&lt;/A&gt;&lt;BR&gt;Das Starten mit dem Pg ist nur in Winter gestattet &lt;BR&gt;&amp;nbsp;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1380m &lt;BR&gt;startrichtung: W,SW &lt;BR&gt;höhendifferenz: 900m &lt;BR&gt;GPS lat : N 46° 49.093 &lt;BR&gt;GPS lon : E 14° 55.634 &lt;BR&gt;webcam: &lt;A href=&quot;http://webswk19.bon.at/b287601193/webcam.html&quot;&gt;zeigen&lt;/A&gt; &lt;/DIV&gt;
+&lt;DIV&gt;wetter: &lt;A href=&quot;http://webswk19.bon.at/b287601193/current.html&quot;&gt;zeigen&lt;/A&gt;&lt;BR&gt;Das Starten mit dem Pg ist nur in Winter gestattet &lt;BR&gt;&amp;nbsp;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="13.629484000" lat="46.282902000">
+        <ele>0.000000</ele>
+        <name>Krasji Vrh</name>
+        <cmt>&lt;DIV&gt;höhe: 1190m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: SW&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 950m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 16.942&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 37.765&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1190m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: SW&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 950m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 16.942&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 37.765&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="13.473015000" lat="46.273205000">
+        <ele>0.000000</ele>
+        <name>Stol</name>
+        <cmt>&lt;DIV&gt;höhe: 1400m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: SW,S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 1150m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 16.354&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 28.389&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1400m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: SW,S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 1150m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 16.354&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 28.389&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="14.498606000" lat="46.728802000">
+        <ele>0.000000</ele>
+        <name>Lippekogel</name>
+        <cmt>&lt;DIV&gt;höhe: 1050m &lt;BR&gt;richtung: O &lt;BR&gt;höhendifferenz: 550m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 43.818&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 14° 29.985&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;Wenn&amp;nbsp;ein etwas stärkerer&amp;nbsp;ostwind durchs jauntal zieht zahlt es sich auf jeden fall aus mal raufzufahren&amp;nbsp;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1050m &lt;BR&gt;richtung: O &lt;BR&gt;höhendifferenz: 550m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 43.818&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 14° 29.985&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;Wenn&amp;nbsp;ein etwas stärkerer&amp;nbsp;ostwind durchs jauntal zieht zahlt es sich auf jeden fall aus mal raufzufahren&amp;nbsp;</desc>
+    </wpt>
+    <wpt lon="14.772148000" lat="46.519894000">
+        <ele>0.000000</ele>
+        <name>Petzen</name>
+        <cmt>&lt;DIV&gt;höhe: 1700m &lt;BR&gt;startrichtung:N,NO &lt;BR&gt;höhendifferenz:1100 &lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 31.110&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 14° 46.350&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;club: &lt;A href=&quot;http://www.petzenflieger.at/&quot;&gt;http://www.petzenflieger.at/&lt;/A&gt;&lt;BR&gt;webcam: &lt;A href=&quot;http://petzen.it-wms.com/&quot;&gt;http://petzen.it-wms.com/&lt;/A&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1700m &lt;BR&gt;startrichtung:N,NO &lt;BR&gt;höhendifferenz:1100 &lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 31.110&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 14° 46.350&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;club: &lt;A href=&quot;http://www.petzenflieger.at/&quot;&gt;http://www.petzenflieger.at/&lt;/A&gt;&lt;BR&gt;webcam: &lt;A href=&quot;http://petzen.it-wms.com/&quot;&gt;http://petzen.it-wms.com/&lt;/A&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="14.642801000" lat="46.702614000">
+        <ele>0.000000</ele>
+        <name>Wandelitze</name>
+        <cmt>höhe: 1000m
+&lt;br&gt;startrichtung: S (sw)
+&lt;br&gt;höhendifferenz: 500m
+&lt;br&gt;Gut zu Thermikfliegen aber schwierig auf Strecke zu gehen.</cmt>
+        <desc>höhe: 1000m
+&lt;br&gt;startrichtung: S (sw)
+&lt;br&gt;höhendifferenz: 500m
+&lt;br&gt;Gut zu Thermikfliegen aber schwierig auf Strecke zu gehen.</desc>
+    </wpt>
+    <wpt lon="14.402776000" lat="46.572906000">
+        <ele>0.000000</ele>
+        <name>Radsberg</name>
+        <cmt>&lt;DIV&gt;höhe: 830m &lt;BR&gt;startrichtung: SO &lt;BR&gt;höhendifferenz: &lt;BR&gt;GPS Breite : N 46° 34.351 &lt;BR&gt;GPS Länge : E 14° 24.186 &lt;BR&gt;webcam: &lt;A href=&quot;http://www.kgfc.org/webcam/&quot;&gt;&lt;FONT color=&quot;#810081&quot;&gt;zeigen&lt;/FONT&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;club: &lt;A href=&quot;http://www.kgfc.org/&quot;&gt;http://www.kgfc.org/&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Ein genialer Berg. Schon in Jänner Toplandungen möglich. Das ganze Jahr ist mit guter Thermik zu rechnen.&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 830m &lt;BR&gt;startrichtung: SO &lt;BR&gt;höhendifferenz: &lt;BR&gt;GPS Breite : N 46° 34.351 &lt;BR&gt;GPS Länge : E 14° 24.186 &lt;BR&gt;webcam: &lt;A href=&quot;http://www.kgfc.org/webcam/&quot;&gt;&lt;FONT color=&quot;#810081&quot;&gt;zeigen&lt;/FONT&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;club: &lt;A href=&quot;http://www.kgfc.org/&quot;&gt;http://www.kgfc.org/&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Ein genialer Berg. Schon in Jänner Toplandungen möglich. Das ganze Jahr ist mit guter Thermik zu rechnen.&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="14.920292000" lat="46.778316000">
+        <ele>0.000000</ele>
+        <name>Goding</name>
+        <cmt>&lt;DIV&gt;höhe: &lt;BR&gt;startrichtung:W &lt;BR&gt;höhendifferenz:&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 46.706&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 14° 55.260&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;
+&lt;DIV&gt;club: &lt;A href=&quot;http://www.lgfc.org/&quot;&gt;http://www.lgfc.org/&lt;/A&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: &lt;BR&gt;startrichtung:W &lt;BR&gt;höhendifferenz:&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 46.706&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 14° 55.260&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;
+&lt;DIV&gt;club: &lt;A href=&quot;http://www.lgfc.org/&quot;&gt;http://www.lgfc.org/&lt;/A&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="13.262966000" lat="46.225407000">
+        <ele>0.000000</ele>
+        <name>Nimis- Bernadia</name>
+        <cmt>höhe: 680m &lt;BR&gt;startrichtung: S &lt;BR&gt;höhendifferenz: 440m &lt;BR&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 13.488&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 15.832&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</cmt>
+        <desc>höhe: 680m &lt;BR&gt;startrichtung: S &lt;BR&gt;höhendifferenz: 440m &lt;BR&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 13.488&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 15.832&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</desc>
+    </wpt>
+    <wpt lon="14.955654000" lat="46.792950000">
+        <ele>0.000000</ele>
+        <name>Koralpe</name>
+        <cmt>&lt;DIV&gt;höhe: 2000m &lt;BR&gt;startrichtung: SW,W,NW&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 1550m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 47.452&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 14° 57.301&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Webcam: &lt;A href=&quot;http://livecam.feratel.at/cam/sanktstefan/5050/index.jsp?design=standard4&amp;amp;bgColor1=FFFFFF&amp;amp;bgColor2=D80231&amp;amp;textColor2=FFFFFF&amp;amp;language=de&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 2000m &lt;BR&gt;startrichtung: SW,W,NW&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 1550m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 47.452&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 14° 57.301&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Webcam: &lt;A href=&quot;http://livecam.feratel.at/cam/sanktstefan/5050/index.jsp?design=standard4&amp;amp;bgColor1=FFFFFF&amp;amp;bgColor2=D80231&amp;amp;textColor2=FFFFFF&amp;amp;language=de&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="13.174238000" lat="46.273560000">
+        <ele>0.000000</ele>
+        <name>Gemona- cuarnan</name>
+        <cmt>höhe: 1180m &lt;BR&gt;startrichtung: SO &lt;BR&gt;höhendifferenz: 830m&lt;BR&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 12.339&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 12° 49.148&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;
+&lt;DIV&gt;meteodaten: &lt;A href=&quot;http://www.gemonaweb.it/?page=iframe.meteo&quot;&gt;zeigen&lt;BR&gt;&lt;/A&gt;&lt;/DIV&gt;</cmt>
+        <desc>höhe: 1180m &lt;BR&gt;startrichtung: SO &lt;BR&gt;höhendifferenz: 830m&lt;BR&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 12.339&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 12° 49.148&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;
+&lt;DIV&gt;meteodaten: &lt;A href=&quot;http://www.gemonaweb.it/?page=iframe.meteo&quot;&gt;zeigen&lt;BR&gt;&lt;/A&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="14.493027000" lat="46.502529000">
+        <ele>0.000000</ele>
+        <name>Obir</name>
+        <cmt>&lt;DIV&gt;höhe:&amp;nbsp; 2100m&lt;BR&gt;startrichtung: S,SO &lt;BR&gt;höhendifferenz: 1550m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 30.369&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 14° 29.220&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;A href=&quot;http://www.verwaltung.ktn.gv.at/33278_DE-Messstationsdaten-Hochobir.65CE57A92994cf0d09c21f494df654eb6810833&quot;&gt;li&lt;/A&gt;nk: &lt;A href=&quot;http://www.verwaltung.ktn.gv.at/33278_DE-Messstationsdaten-Hochobir.65CE57A92994cf0d09c21f494df654eb6810833&quot;&gt;winddaten- lawinendienst&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;von der Eisenkapplerhütte noch 1,5 stunden bis zum stpl&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe:&amp;nbsp; 2100m&lt;BR&gt;startrichtung: S,SO &lt;BR&gt;höhendifferenz: 1550m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 30.369&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 14° 29.220&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;A href=&quot;http://www.verwaltung.ktn.gv.at/33278_DE-Messstationsdaten-Hochobir.65CE57A92994cf0d09c21f494df654eb6810833&quot;&gt;li&lt;/A&gt;nk: &lt;A href=&quot;http://www.verwaltung.ktn.gv.at/33278_DE-Messstationsdaten-Hochobir.65CE57A92994cf0d09c21f494df654eb6810833&quot;&gt;winddaten- lawinendienst&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;von der Eisenkapplerhütte noch 1,5 stunden bis zum stpl&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="13.913841000" lat="46.694550000">
+        <ele>0.000000</ele>
+        <name>Gerlitze</name>
+        <cmt>&lt;DIV&gt;höhe: 1900m &lt;BR&gt;startrichtung: W,SW,S,SO,O &lt;BR&gt;höhendifferenz: 1350m &lt;BR&gt;GPS lat : N 46° 41.627 &lt;BR&gt;GPS lon : E 13° 54.883 &lt;BR&gt;webcam: &lt;A href=&quot;http://www.gerlitzen.com/?cat=maincontent&amp;amp;type=livecam&amp;amp;breit=true&amp;amp;sid=wi&amp;amp;lid=de&quot;&gt;&lt;FONT style=&quot;background-color:#ffffff&quot; color=&quot;#000099&quot;&gt;zeigen&lt;/FONT&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Dgfc Ossiachersee: &lt;A href=&quot;http://www.dgfc-ossiachersee.blogspot.com/&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;paragleiten 365: &lt;A href=&quot;http://www.paragleiten365.net/&quot;&gt;http://www.paragleiten365.net/&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Besonders gut zum thermikfliegen, zum streckenfliegen wird er nicht sehr bevorzugt. Bei Urlaub mit Familienanhang ist die Gerl. erste wahl.&lt;/DIV&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1900m &lt;BR&gt;startrichtung: W,SW,S,SO,O &lt;BR&gt;höhendifferenz: 1350m &lt;BR&gt;GPS lat : N 46° 41.627 &lt;BR&gt;GPS lon : E 13° 54.883 &lt;BR&gt;webcam: &lt;A href=&quot;http://www.gerlitzen.com/?cat=maincontent&amp;amp;type=livecam&amp;amp;breit=true&amp;amp;sid=wi&amp;amp;lid=de&quot;&gt;&lt;FONT style=&quot;background-color:#ffffff&quot; color=&quot;#000099&quot;&gt;zeigen&lt;/FONT&gt;&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Dgfc Ossiachersee: &lt;A href=&quot;http://www.dgfc-ossiachersee.blogspot.com/&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;paragleiten 365: &lt;A href=&quot;http://www.paragleiten365.net/&quot;&gt;http://www.paragleiten365.net/&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Besonders gut zum thermikfliegen, zum streckenfliegen wird er nicht sehr bevorzugt. Bei Urlaub mit Familienanhang ist die Gerl. erste wahl.&lt;/DIV&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;</desc>
+    </wpt>
+    <wpt lon="13.904614000" lat="46.669304000">
+        <ele>0.000000</ele>
+        <name>Ossiachberg</name>
+        <cmt>&lt;DIV&gt;höhe: 1050m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 500m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 40.088&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 54.171&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Startplatz der flugschule&lt;/DIV&gt;
+&lt;DIV&gt;&lt;A href=&quot;http://www.kaerntner-flugschulen.at/&quot;&gt;http://www.kaerntner-flugschulen.at/&lt;/A&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1050m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 500m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 40.088&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 54.171&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Startplatz der flugschule&lt;/DIV&gt;
+&lt;DIV&gt;&lt;A href=&quot;http://www.kaerntner-flugschulen.at/&quot;&gt;http://www.kaerntner-flugschulen.at/&lt;/A&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="13.723490000" lat="45.963531000">
+        <ele>0.000000</ele>
+        <name>Lijak</name>
+        <cmt>&lt;DIV&gt;höhe: 590m &lt;BR&gt;startrichtung: S,SW &lt;BR&gt;höhendifferenz: 520m &lt;BR&gt;GPS lat : N 45° 57.810 &lt;BR&gt;GPS lon : E 13° 43.396 &lt;/DIV&gt;
+&lt;DIV&gt;wettervorhersage: &lt;A href=&quot;http://www.bogvetra.com/cgi-bin/eol.cgi?p=vre_teden&amp;amp;loc=nogo&quot;&gt;zeigen&lt;BR&gt;&lt;/A&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 590m &lt;BR&gt;startrichtung: S,SW &lt;BR&gt;höhendifferenz: 520m &lt;BR&gt;GPS lat : N 45° 57.810 &lt;BR&gt;GPS lon : E 13° 43.396 &lt;/DIV&gt;
+&lt;DIV&gt;wettervorhersage: &lt;A href=&quot;http://www.bogvetra.com/cgi-bin/eol.cgi?p=vre_teden&amp;amp;loc=nogo&quot;&gt;zeigen&lt;BR&gt;&lt;/A&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="12.806625000" lat="46.230709000">
+        <ele>0.000000</ele>
+        <name>Meduno</name>
+        <cmt>höhe: 980m
+&lt;br&gt;startrichtung: S,SW
+&lt;br&gt;höhendifferenz: 720m
+&lt;br&gt;GPS lat : N 46° 13.877 
+&lt;br&gt;GPS lon : E 12° 48.518 
+&lt;br&gt;</cmt>
+        <desc>höhe: 980m
+&lt;br&gt;startrichtung: S,SW
+&lt;br&gt;höhendifferenz: 720m
+&lt;br&gt;GPS lat : N 46° 13.877 
+&lt;br&gt;GPS lon : E 12° 48.518 
+&lt;br&gt;</desc>
+    </wpt>
+    <wpt lon="12.530648000" lat="46.087074000">
+        <ele>0.000000</ele>
+        <name>Aviano</name>
+        <cmt>höhe:
+&lt;br&gt;startrichtung: S
+&lt;br&gt;höhendifferenz:
+&lt;br&gt;GPS lat : N 46° 05.131 
+&lt;br&gt;GPS lon : E 12° 31.498
+&lt;br&gt;Fliegen ist nur am freitag, samstag u. sonntag erlaubt (militär)
+&lt;br&gt;</cmt>
+        <desc>höhe:
+&lt;br&gt;startrichtung: S
+&lt;br&gt;höhendifferenz:
+&lt;br&gt;GPS lat : N 46° 05.131 
+&lt;br&gt;GPS lon : E 12° 31.498
+&lt;br&gt;Fliegen ist nur am freitag, samstag u. sonntag erlaubt (militär)
+&lt;br&gt;</desc>
+    </wpt>
+    <wpt lon="13.149219000" lat="46.777260000">
+        <ele>0.000000</ele>
+        <name>Embergeralm</name>
+        <cmt>&lt;DIV&gt;höhe: 1800m &lt;BR&gt;startrichtung: S &lt;BR&gt;höhendifferenz: 1100m &lt;BR&gt;GPS Breite : N 46° 44.801 &lt;BR&gt;GPS Länge : E 13° 11.585 &lt;BR&gt;webcam: &lt;A href=&quot;http://www.embergeralm.at/wetter/&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;windreporter: &lt;A href=&quot;http://www.windreporter.com/windberichte/oesterreich/kaernten/emberger-alm.html?hours=5&amp;amp;kmh=1&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;webcam LP: &lt;A href=&quot;http://greifenburg.it-wms.com/&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Der Ausgangspunkt für große Strecken.&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1800m &lt;BR&gt;startrichtung: S &lt;BR&gt;höhendifferenz: 1100m &lt;BR&gt;GPS Breite : N 46° 44.801 &lt;BR&gt;GPS Länge : E 13° 11.585 &lt;BR&gt;webcam: &lt;A href=&quot;http://www.embergeralm.at/wetter/&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;windreporter: &lt;A href=&quot;http://www.windreporter.com/windberichte/oesterreich/kaernten/emberger-alm.html?hours=5&amp;amp;kmh=1&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;webcam LP: &lt;A href=&quot;http://greifenburg.it-wms.com/&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Der Ausgangspunkt für große Strecken.&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="14.884157000" lat="46.842876000">
+        <ele>0.000000</ele>
+        <name>Jaga</name>
+        <cmt>&lt;DIV&gt;höhe: 1020m &lt;BR&gt;startrichtung: W,SW &lt;BR&gt;höhendifferenz:550m &lt;BR&gt;GPS Breite : N 46° 50.545 &lt;BR&gt;GPS Länge : E 14° 53.217 &lt;BR&gt;Flugschule: &lt;A href=&quot;http://www.skyvalley.at/&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;club: &lt;A href=&quot;http://www.1.kdfc.info/&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1020m &lt;BR&gt;startrichtung: W,SW &lt;BR&gt;höhendifferenz:550m &lt;BR&gt;GPS Breite : N 46° 50.545 &lt;BR&gt;GPS Länge : E 14° 53.217 &lt;BR&gt;Flugschule: &lt;A href=&quot;http://www.skyvalley.at/&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;club: &lt;A href=&quot;http://www.1.kdfc.info/&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="12.391119000" lat="46.768265000">
+        <ele>0.000000</ele>
+        <name>Thurntaler</name>
+        <cmt>&lt;DIV&gt;höhe: 2240m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung:W,SW,S,SO,O,NO,N&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 1020m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 46.080&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 12° 23.460&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Flugschule: &lt;A href=&quot;http://www.bluesky.at/internet/nav/123/broker&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 2240m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung:W,SW,S,SO,O,NO,N&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 1020m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 46.080&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 12° 23.460&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;
+&lt;DIV&gt;Flugschule: &lt;A href=&quot;http://www.bluesky.at/internet/nav/123/broker&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="12.421288000" lat="46.756447000">
+        <ele>0.000000</ele>
+        <name>Stalpe</name>
+        <cmt>&lt;DIV&gt;höhe: 1085m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 500&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 45.543&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 12° 24.915&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1085m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 500&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 45.543&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 12° 24.915&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="12.625072000" lat="46.719460000">
+        <ele>0.000000</ele>
+        <name>Golzentipp</name>
+        <cmt>&lt;DIV&gt;höhe: 2040m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: SW,S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 1100&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 43.169&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 12° 37.689&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 2040m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: SW,S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 1100&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 43.169&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 12° 37.689&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="13.395295000" lat="46.859795000">
+        <ele>0.000000</ele>
+        <name>Göriach</name>
+        <cmt>&lt;DIV&gt;höhe: 820m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: SW,S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 240&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 51.513&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 23.804&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 820m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: SW,S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 240&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 51.513&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 23.804&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="12.942495000" lat="46.803879000">
+        <ele>0.000000</ele>
+        <name>Zietenkopf</name>
+        <cmt>&lt;DIV&gt;höhe: 2340m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: O,SO,S,SW,W&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz:&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 48.205&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 12° 56.620&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 2340m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: O,SO,S,SW,W&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz:&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 48.205&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 12° 56.620&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="13.309937000" lat="46.634350000">
+        <ele>0.000000</ele>
+        <name>Guggenberg</name>
+        <cmt>&lt;DIV&gt;höhe: 1170m &lt;BR&gt;startrichtung: W,SW,S,SO,O &lt;BR&gt;höhendifferenz: 650m &lt;BR&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 38.072&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 18.323&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1170m &lt;BR&gt;startrichtung: W,SW,S,SO,O &lt;BR&gt;höhendifferenz: 650m &lt;BR&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 38.072&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 18.323&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;&lt;/P&gt;</desc>
+    </wpt>
+    <wpt lon="12.794695000" lat="46.852856000">
+        <ele>0.000000</ele>
+        <name>Ebner Feld</name>
+        <cmt>&lt;DIV&gt;höhe: 1400m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: SW,S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 680m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 51.155&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 12° 47.698&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1400m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: SW,S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 680m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 51.155&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 12° 47.698&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="12.706525000" lat="46.818493000">
+        <ele>0.000000</ele>
+        <name>Hochstein</name>
+        <cmt>&lt;DIV&gt;höhe: 1970m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: W&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 820m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 49.116&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 12° 42.396&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1970m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: W&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 820m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 49.116&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 12° 42.396&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="13.778615000" lat="46.180603000">
+        <ele>0.000000</ele>
+        <name>Kobala</name>
+        <cmt>&lt;DIV&gt;höhe: 1060m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: W,SW,S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 850m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 10.835&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 46.715&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1060m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: W,SW,S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 850m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 10.835&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 46.715&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="14.673529000" lat="46.702614000">
+        <ele>0.000000</ele>
+        <name>Haimburgerberg</name>
+        <cmt>höhe: 750m
+&lt;br&gt;startrichtung: SW
+&lt;br&gt;höhendifferenz: 250m
+&lt;br&gt;Wenn auf der Wandelitzen zu starker SW od.W. ist kann man hierher ausweichen</cmt>
+        <desc>höhe: 750m
+&lt;br&gt;startrichtung: SW
+&lt;br&gt;höhendifferenz: 250m
+&lt;br&gt;Wenn auf der Wandelitzen zu starker SW od.W. ist kann man hierher ausweichen</desc>
+    </wpt>
+    <wpt lon="14.485817000" lat="46.711739000">
+        <ele>0.000000</ele>
+        <name>Christofberg</name>
+        <cmt>höhe:
+&lt;br&gt;startrichtung: NO,O,SO
+&lt;br&gt;höhendifferenz: ca500m
+&lt;br&gt;Alter Startplatz (es wird der Lippekogel bevorzugt)</cmt>
+        <desc>höhe:
+&lt;br&gt;startrichtung: NO,O,SO
+&lt;br&gt;höhendifferenz: ca500m
+&lt;br&gt;Alter Startplatz (es wird der Lippekogel bevorzugt)</desc>
+    </wpt>
+    <wpt lon="14.738760000" lat="46.518124000">
+        <ele>0.000000</ele>
+        <name>Wackendorferalm</name>
+        <cmt>höhe:
+&lt;br&gt;startrichtung: N,NW,W,SW,S
+&lt;br&gt;höhendifferenz:
+&lt;br&gt;Am begin der Strasse befindet sich ein Münzschranken dann der strasse nach bis zur Jausenstation, da kann man starten aber es wird empfohlen ganz auf die Alm zu wandern (ca. 3/4 std.)</cmt>
+        <desc>höhe:
+&lt;br&gt;startrichtung: N,NW,W,SW,S
+&lt;br&gt;höhendifferenz:
+&lt;br&gt;Am begin der Strasse befindet sich ein Münzschranken dann der strasse nach bis zur Jausenstation, da kann man starten aber es wird empfohlen ganz auf die Alm zu wandern (ca. 3/4 std.)</desc>
+    </wpt>
+    <wpt lon="15.475445000" lat="47.200851000">
+        <ele>0.000000</ele>
+        <name>Schöckel</name>
+        <cmt>&lt;DIV&gt;höhe: 1380m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung:SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 600m&lt;/DIV&gt;
+&lt;DIV&gt;webcam: &lt;A href=&quot;http://www.bergfex.at/schoeckel/webcams/&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;flugschule: &lt;A href=&quot;http://www.flugschule-steiermark.at/start/&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 47° 11.967&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 15° 28.573&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1380m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung:SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 600m&lt;/DIV&gt;
+&lt;DIV&gt;webcam: &lt;A href=&quot;http://www.bergfex.at/schoeckel/webcams/&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;flugschule: &lt;A href=&quot;http://www.flugschule-steiermark.at/start/&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 47° 11.967&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 15° 28.573&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="11.911368000" lat="46.908310000">
+        <ele>0.000000</ele>
+        <name>Speikboden</name>
+        <cmt>&lt;DIV&gt;höhen: 2400m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 1500m&lt;/DIV&gt;
+&lt;DIV&gt;webcam: &lt;A href=&quot;http://www.speikboden.it/WINTER/index_d_.html&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 54.670&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 11° 54.560&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhen: 2400m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 1500m&lt;/DIV&gt;
+&lt;DIV&gt;webcam: &lt;A href=&quot;http://www.speikboden.it/WINTER/index_d_.html&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 54.670&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 11° 54.560&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="11.224165000" lat="46.599625000">
+        <ele>0.000000</ele>
+        <name>Verano</name>
+        <cmt>&lt;DIV&gt;höhe: 1160m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: O&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 920m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 35.961&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 11° 13.460&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1160m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: O&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 920m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 35.961&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 11° 13.460&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="15.478964000" lat="47.303623000">
+        <ele>0.000000</ele>
+        <name>Toper</name>
+        <cmt>&lt;DIV&gt;höhe: 1120m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: S&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 380m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 47° 18.215&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 15° 28.735&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1120m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: S&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 380m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 47° 18.215&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 15° 28.735&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="11.307507000" lat="47.145027000">
+        <ele>0.000000</ele>
+        <name>Schlick 2000</name>
+        <cmt>&lt;DIV&gt;höhe: 2080m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 1080m&lt;/DIV&gt;
+&lt;DIV&gt;webcam: &lt;A href=&quot;http://www.schlick2000.at/sixcms/detail.php?template=pistenplan1_schlick2000&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 47° 08.701&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 11° 18.449&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 2080m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: S,SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 1080m&lt;/DIV&gt;
+&lt;DIV&gt;webcam: &lt;A href=&quot;http://www.schlick2000.at/sixcms/detail.php?template=pistenplan1_schlick2000&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 47° 08.701&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 11° 18.449&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="13.100317000" lat="46.333973000">
+        <ele>0.000000</ele>
+        <name>S.Simeone</name>
+        <cmt>höhe: 1150m
+&lt;br&gt;startrichtung: S
+&lt;br&gt;höhendifferenz: 950m</cmt>
+        <desc>höhe: 1150m
+&lt;br&gt;startrichtung: S
+&lt;br&gt;höhendifferenz: 950m</desc>
+    </wpt>
+    <wpt lon="13.828354000" lat="46.786308000">
+        <ele>0.000000</ele>
+        <name>Bad Kleinkirchheim</name>
+        <cmt>&lt;DIV&gt;höhe: 2000m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: NW&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 940m&lt;/DIV&gt;
+&lt;DIV&gt;webcam: &lt;A href=&quot;http://www.badkleinkirchheim.at/wetter/?lang=de&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 47.192&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 49.661&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 2000m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: NW&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 940m&lt;/DIV&gt;
+&lt;DIV&gt;webcam: &lt;A href=&quot;http://www.badkleinkirchheim.at/wetter/?lang=de&quot;&gt;zeigen&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lat :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 47.192&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS lon :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 13° 49.661&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="13.456535000" lat="46.758152000">
+        <ele>0.000000</ele>
+        <name>Goldeck</name>
+        <cmt>höhe: 2100m &lt;BR&gt;startrichtung: NW,W,S,SO,NW &lt;BR&gt;höhendifferenz: 1550m &lt;BR&gt;webcam: &lt;A href=&quot;http://www.bergfex.at/goldeck/webcams/&quot;&gt;zeigen&lt;BR&gt;&lt;/A&gt;Berg:46° 45' 30'' N,13° 27' 35'' O</cmt>
+        <desc>höhe: 2100m &lt;BR&gt;startrichtung: NW,W,S,SO,NW &lt;BR&gt;höhendifferenz: 1550m &lt;BR&gt;webcam: &lt;A href=&quot;http://www.bergfex.at/goldeck/webcams/&quot;&gt;zeigen&lt;BR&gt;&lt;/A&gt;Berg:46° 45' 30'' N,13° 27' 35'' O</desc>
+    </wpt>
+    <wpt lon="14.329691000" lat="46.341297000">
+        <ele>0.000000</ele>
+        <name>Gozd</name>
+        <cmt>&lt;DIV&gt;höhe: 900m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: S&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 450m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 20.390&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 14° 19.790&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 900m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: S&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 450m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 20.390&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 14° 19.790&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="14.326172000" lat="46.350719000">
+        <ele>0.000000</ele>
+        <name>Krska</name>
+        <cmt>&lt;DIV&gt;höhe: 1450m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 1000m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 21.045&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 14° 19.923&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV&gt;höhe: 1450m&lt;/DIV&gt;
+&lt;DIV&gt;startrichtung: SO&lt;/DIV&gt;
+&lt;DIV&gt;höhendifferenz: 1000m&lt;/DIV&gt;
+&lt;DIV&gt;
+&lt;TABLE&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Breite :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;N 46° 21.045&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TH&gt;GPS Länge :&lt;/TH&gt;&lt;/TH&gt;
+&lt;TD&gt;E 14° 19.923&lt;/TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="12.787743000" lat="46.875683000">
+        <ele>0.000000</ele>
+        <name>Zettersfeld</name>
+        <cmt>höhe: 2190m &lt;BR&gt;startrichtung: S,SW &lt;BR&gt;höhendifferenz: 1490m &lt;BR&gt;webcam wetter: &lt;A href=&quot;http://www.touristcam.at/externalcam.php?fid=119&quot;&gt;zeigen&lt;/A&gt; &lt;BR&gt;GPS Breite : N 46° 52.535 &lt;BR&gt;GPS Länge : E 12° 47.230 &lt;BR&gt;</cmt>
+        <desc>höhe: 2190m &lt;BR&gt;startrichtung: S,SW &lt;BR&gt;höhendifferenz: 1490m &lt;BR&gt;webcam wetter: &lt;A href=&quot;http://www.touristcam.at/externalcam.php?fid=119&quot;&gt;zeigen&lt;/A&gt; &lt;BR&gt;GPS Breite : N 46° 52.535 &lt;BR&gt;GPS Länge : E 12° 47.230 &lt;BR&gt;</desc>
+    </wpt>
+    <wpt lon="13.622360000" lat="46.836826000">
+        <ele>0.000000</ele>
+        <name>Tschirnock</name>
+        <cmt>höhe: 2120m &lt;BR&gt;startrichtung: S,SW &lt;BR&gt;höhendifferenz:1290m &lt;BR&gt;flugschule: &lt;A href=&quot;http://www.flycarinthia.at/frame_e.html&quot;&gt;zeigen&lt;/A&gt; &lt;BR&gt;GPS Breite : N 46° 50.209 &lt;BR&gt;GPS Länge : E 13° 37.334 &lt;BR&gt;</cmt>
+        <desc>höhe: 2120m &lt;BR&gt;startrichtung: S,SW &lt;BR&gt;höhendifferenz:1290m &lt;BR&gt;flugschule: &lt;A href=&quot;http://www.flycarinthia.at/frame_e.html&quot;&gt;zeigen&lt;/A&gt; &lt;BR&gt;GPS Breite : N 46° 50.209 &lt;BR&gt;GPS Länge : E 13° 37.334 &lt;BR&gt;</desc>
+    </wpt>
+    <wpt lon="12.565484000" lat="46.450100000">
+        <ele>0.000000</ele>
+        <name>Forni Di Sopra</name>
+        <cmt>höhe: 
+&lt;br&gt;startrichtung: S,SW
+&lt;br&gt;höhendifferenz: 
+&lt;br&gt;Der Lift ist auch in Sommer in Betrieb
+&lt;br&gt;</cmt>
+        <desc>höhe: 
+&lt;br&gt;startrichtung: S,SW
+&lt;br&gt;höhendifferenz: 
+&lt;br&gt;Der Lift ist auch in Sommer in Betrieb
+&lt;br&gt;</desc>
+    </wpt>
+    <wpt lon="14.532251000" lat="46.298264000">
+        <ele>0.000000</ele>
+        <name>Krvavec</name>
+        <cmt>Krvavec</cmt>
+        <desc>Krvavec</desc>
+    </wpt>
+    <wpt lon="13.872986000" lat="46.296898000">
+        <ele>0.000000</ele>
+        <name>Vogar</name>
+        <cmt>Vogar</cmt>
+        <desc>Vogar</desc>
+    </wpt>
+    <wpt lon="14.008641000" lat="46.229786000">
+        <ele>0.000000</ele>
+        <name>Sorica</name>
+        <cmt>höhe: 1040m
+&lt;br&gt;startrichtung:
+&lt;br&gt;höhendifferenz:
+&lt;br&gt;GPS Breite : N 46° 13.782 
+&lt;br&gt;GPS Länge : E 14° 00.519 
+&lt;br&gt;</cmt>
+        <desc>höhe: 1040m
+&lt;br&gt;startrichtung:
+&lt;br&gt;höhendifferenz:
+&lt;br&gt;GPS Breite : N 46° 13.782 
+&lt;br&gt;GPS Länge : E 14° 00.519 
+&lt;br&gt;</desc>
+    </wpt>
+    <wpt lon="13.958731000" lat="45.886341000">
+        <ele>0.000000</ele>
+        <name>Kovk</name>
+        <cmt>höhe: 850m
+&lt;br&gt;startrichtung: S
+&lt;br&gt;höhendifferenz: 700m
+&lt;br&gt;GPS lat : N 45° 53.180 
+&lt;br&gt;GPS lon : E 13° 57.525 
+&lt;br&gt;</cmt>
+        <desc>höhe: 850m
+&lt;br&gt;startrichtung: S
+&lt;br&gt;höhendifferenz: 700m
+&lt;br&gt;GPS lat : N 45° 53.180 
+&lt;br&gt;GPS lon : E 13° 57.525 
+&lt;br&gt;</desc>
+    </wpt>
+    <wpt lon="14.600315000" lat="46.716267000">
+        <ele>0.000000</ele>
+        <name>Zauberkogel</name>
+        <cmt>höhe:
+&lt;br&gt;startrichtung: SW
+&lt;br&gt;höhendifferenz: ca 450m
+&lt;br&gt;Eigentlich wird hier so gut wie nie geflogen. Aber ich denke hier dürfte es bei SW gut gehen da sich direkt vor dem Startplatz ein Graben befindet der sich gut thermisch aufheizt. Ich werde es mal testen und dann auch berichten</cmt>
+        <desc>höhe:
+&lt;br&gt;startrichtung: SW
+&lt;br&gt;höhendifferenz: ca 450m
+&lt;br&gt;Eigentlich wird hier so gut wie nie geflogen. Aber ich denke hier dürfte es bei SW gut gehen da sich direkt vor dem Startplatz ein Graben befindet der sich gut thermisch aufheizt. Ich werde es mal testen und dann auch berichten</desc>
+    </wpt>
+    <wpt lon="13.173423000" lat="46.267181000">
+        <ele>0.000000</ele>
+        <name>Garzette</name>
+        <cmt>&lt;DIV dir=&quot;ltr&quot;&gt;höhe: 800m &lt;BR&gt;startrichtung: S &lt;BR&gt;höhendifferenz: 600m &lt;BR&gt;GPS lat : N 46° 16.034 &lt;BR&gt;GPS lon : E 13° 10.407 &lt;/DIV&gt;
+&lt;DIV dir=&quot;ltr&quot;&gt;Meteodaten: &lt;A href=&quot;http://www.gemonaweb.it/?page=iframe.meteo&quot;&gt;zeigen&lt;BR&gt;&lt;/A&gt;&amp;nbsp;&lt;BR&gt;&amp;nbsp;&lt;/DIV&gt;</cmt>
+        <desc>&lt;DIV dir=&quot;ltr&quot;&gt;höhe: 800m &lt;BR&gt;startrichtung: S &lt;BR&gt;höhendifferenz: 600m &lt;BR&gt;GPS lat : N 46° 16.034 &lt;BR&gt;GPS lon : E 13° 10.407 &lt;/DIV&gt;
+&lt;DIV dir=&quot;ltr&quot;&gt;Meteodaten: &lt;A href=&quot;http://www.gemonaweb.it/?page=iframe.meteo&quot;&gt;zeigen&lt;BR&gt;&lt;/A&gt;&amp;nbsp;&lt;BR&gt;&amp;nbsp;&lt;/DIV&gt;</desc>
+    </wpt>
+    <wpt lon="13.965168000" lat="45.445080000">
+        <ele>0.000000</ele>
+        <name>Buzet</name>
+        <cmt>&lt;div dir=&quot;ltr&quot;&gt;höhe: 600m
+&lt;br&gt;startrichtung: SW
+&lt;br&gt;höhendifferenz: 400m&lt;/div&gt;</cmt>
+        <desc>&lt;div dir=&quot;ltr&quot;&gt;höhe: 600m
+&lt;br&gt;startrichtung: SW
+&lt;br&gt;höhendifferenz: 400m&lt;/div&gt;</desc>
+    </wpt>
+    <wpt lon="13.668151000" lat="45.330872000">
+        <ele>0.000000</ele>
+        <name>Kastelier</name>
+        <cmt>Kastelier</cmt>
+        <desc>Kastelier</desc>
+    </wpt>
+    <wpt lon="14.985046000" lat="46.649323000">
+        <ele>0.000000</ele>
+        <name>Soboth</name>
+        <cmt>Soboth</cmt>
+        <desc>Soboth</desc>
+    </wpt>
+    <trk>
+        <name>CTR- Klagenfurt</name>
+        <trkseg>
+            <trkpt lon="14.201202000" lat="46.761501000">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="14.666748000" lat="46.665459000">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="14.610443000" lat="46.539970000">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="14.144897000" lat="46.635296000">
+                <ele>0.000000</ele>
+            </trkpt>
+            <trkpt lon="14.201202000" lat="46.761501000">
+                <ele>0.000000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

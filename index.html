@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OSMViewer Web</title>
+<link rel="stylesheet" href="src/ui/style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%231f6fb4'/%3E%3Cpath d='M16 5l4 11-4 11-4-11z' fill='%23fff'/%3E%3Cpath d='M16 16l4 0-4 11z' fill='%23d62728'/%3E%3C/svg%3E">
+</head>
+<body>
+<header id="toolbar" role="toolbar" aria-label="Werkzeugleiste">
+  <div class="group">
+    <button type="button" data-cmd="new" title="Neues Dokument">Neu</button>
+    <button type="button" data-cmd="open" title="GPX/KML öffnen (Strg+O)">Öffnen</button>
+    <button type="button" data-cmd="compare" title="GPX/KML zum Vergleich öffnen: wird neben der Arbeitsdatei angezeigt, Daten können gezielt übernommen werden">Vergleichen</button>
+    <button type="button" data-cmd="save" title="Als GPX speichern (Strg+S, Umschalt = Speichern unter)">Speichern</button>
+    <button type="button" data-cmd="kml" title="Als KML exportieren">KML</button>
+  </div>
+  <div class="group">
+    <button type="button" data-cmd="undo" title="Rückgängig (Strg+Z)" aria-label="Rückgängig">↶</button>
+    <button type="button" data-cmd="redo" title="Wiederholen (Strg+Y)" aria-label="Wiederholen">↷</button>
+  </div>
+  <div class="group" role="group" aria-label="Werkzeug">
+    <button type="button" data-cmd="tool-select" aria-pressed="true" title="Auswählen und bearbeiten (Esc)">Auswahl</button>
+    <button type="button" data-cmd="tool-waypoint" aria-pressed="false" title="Wegpunkte durch Klick in die Karte setzen (W)">＋ Wegpunkt</button>
+    <button type="button" data-cmd="tool-route" aria-pressed="false" title="Neue Route anlegen und durch Klicks in die Karte zeichnen; ist eine Route gewählt, wird sie fortgesetzt (R)">＋ Route</button>
+  </div>
+  <div class="group" id="searchbox">
+    <form id="searchform" role="search">
+      <input id="search" type="search" placeholder="Ort oder Koordinate (DD, DMS, UTM, MGRS …)" aria-label="Ort oder Koordinate suchen" autocomplete="off">
+    </form>
+    <button type="button" id="clearmarker" hidden title="Suchmarker von der Karte entfernen (Esc/Entf)" aria-label="Suchmarker entfernen">Marker ✕</button>
+    <ul id="results" hidden></ul>
+  </div>
+  <div class="group grow">
+    <select id="base" aria-label="Basiskarte" title="Basiskarte"></select>
+    <select id="overlay" aria-label="Überlagerung" title="Überlagerung"></select>
+    <select id="grid" aria-label="Koordinatengitter" title="Koordinatengitter im eingestellten Koordinatenformat (Einstellungen)">
+      <option value="none">Kein Gitter</option><option value="grid">Gitter</option><option value="corners">Eckkoordinaten</option><option value="both">Gitter + Ecken</option>
+    </select>
+  </div>
+  <div class="group">
+    <button type="button" data-cmd="fit" title="Alles anzeigen">Alles zeigen</button>
+    <button type="button" data-cmd="print" title="Drucken (Strg+P)">Drucken</button>
+    <button type="button" data-cmd="poster" title="Route/Track als Poster exportieren: vereinfachte Karte, SVG oder PNG">Poster</button>
+    <button type="button" data-cmd="settings" title="Einstellungen" aria-label="Einstellungen">⚙</button>
+  </div>
+</header>
+
+<aside id="sidebar">
+  <div id="tree" aria-label="Inhalt"></div>
+  <div id="props" aria-label="Eigenschaften"></div>
+</aside>
+
+<main>
+  <div id="mapwrap">
+    <canvas id="map" tabindex="0" aria-label="Karte"></canvas>
+    <div id="zoombuttons">
+      <button type="button" data-cmd="zoomin" title="Vergrößern (+)" aria-label="Vergrößern">+</button>
+      <button type="button" data-cmd="zoomout" title="Verkleinern (−)" aria-label="Verkleinern">−</button>
+    </div>
+    <div id="maphint" hidden><span id="maphint-text"></span><button type="button" class="primary" data-cmd="tool-done">Fertig (Esc)</button></div>
+    <div id="navhint" hidden><span id="navhint-text"></span><select id="navprofile" aria-label="Verkehrsmittel" title="Verkehrsmittel"></select><button type="button" id="navcancel">Abbrechen (Esc)</button></div>
+    <div id="attribution"></div>
+    <div id="dropzone" hidden>GPX- oder KML-Dateien hier ablegen</div>
+  </div>
+  <section id="profile" hidden aria-label="Höhenprofil">
+    <div class="profile-head"><b>Höhenprofil</b><span id="profile-info"></span></div>
+    <canvas id="profile-canvas"></canvas>
+  </section>
+  <footer id="status"><span id="hint"></span><span id="coords"></span><span id="zoominfo"></span><span id="cacheinfo"></span></footer>
+</main>
+
+<div id="print-root" hidden></div>
+<script type="module" src="src/ui/app.js"></script>
+<noscript>Diese Anwendung benötigt JavaScript.</noscript>
+</body>
+</html>

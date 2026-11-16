@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapViewer" version="1.1">
+    <metadata>
+        <name>Utah Paria Area</name>
+        <desc>Escalante / Paria / Canyon Land</desc>
+        <author>
+            <name>Jim Fandango</name>
+        </author>
+    </metadata>
+    <rte>
+        <name>Alstrom Point</name>
+        <cmt>comment</cmt>
+        <desc>View to Lake Powell</desc>
+        <rtept lon="-111.495083333333326436331844888627529144287109375" lat="37.12828333333333574728385428898036479949951171875">
+            <name>Crossing</name>
+            <cmt>comment</cmt>
+            <desc>turn right Smoky Mountain Road (Ml 12,8)</desc>
+        </rtept>
+        <rtept lon="-111.4820833333333354175920248962938785552978515625" lat="37.13380000000000080717654782347381114959716796875">
+            <name>Crossing 2</name>
+            <cmt>No Comment</cmt>
+            <desc>Direction BLM Road 340 - right Croton Road/Grand Bench (Ml 13,8)</desc>
+        </rtept>
+        <rtept lon="-111.4312333333333384643992758356034755706787109375" lat="37.1272000000000019781509763561189174652099609375">
+            <name>Fork</name>
+            <cmt>No Comment</cmt>
+            <desc>unsigned fork - keep left (Ml 17,0)</desc>
+        </rtept>
+        <rtept lon="-111.414533333333338305237703025341033935546875" lat="37.128816666666665469165309332311153411865234375">
+            <name>Sign</name>
+            <cmt>No Comment</cmt>
+            <desc>Sign - keep right (Ml 18,0)</desc>
+        </rtept>
+        <rtept lon="-111.4145392356718531345904921181499958038330078125" lat="37.1288248377002361166887567378580570220947265625">
+            <name>Fork2</name>
+            <cmt>No Comment</cmt>
+            <desc>road from back right</desc>
+        </rtept>
+        <rtept lon="-111.385099999999994224708643741905689239501953125" lat="37.0744166666666643550342996604740619659423828125">
+            <name>Crossing - ignore</name>
+            <cmt>No Comment</cmt>
+            <desc>Warm Creek Bay Quadrangle - ignore xing right (Ml 22,2)</desc>
+        </rtept>
+        <rtept lon="-111.3821166666666613309644162654876708984375" lat="37.0675499999999971123543218709528446197509765625">
+            <name>Viewpoint I</name>
+            <cmt>No Comment</cmt>
+            <desc>Lake view (Ml 22,8)</desc>
+        </rtept>
+        <rtept lon="-111.3710999999999984311216394416987895965576171875" lat="37.05595000000000283080225926823914051055908203125">
+            <name>Xing</name>
+            <cmt>No Comment</cmt>
+            <desc>Xing left (Ml 24,3)</desc>
+        </rtept>
+        <rtept lon="-111.36426545430816759107983671128749847412109375" lat="37.0571117946768282536140759475529193878173828125">
+            <name>Gunsight Butte Quadrangle Viewpoint</name>
+            <cmt>No Comment</cmt>
+            <desc>Height 4685 Viewpoint to Lake Powell</desc>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Horseshoe Bend / Nine Mile Draw</name>
+        <cmt>comment</cmt>
+        <desc>View to Colorado river</desc>
+        <rtept lon="-111.5106947605490148589524324052035808563232421875" lat="36.87832491044820670822446118108928203582763671875">
+            <name>Viewpoint</name>
+            <cmt>No Comment</cmt>
+            <desc>View to Colorado river</desc>
+        </rtept>
+        <rtept lon="-111.5091693342559580059969448484480381011962890625" lat="36.88349667018383826189165120013058185577392578125">
+            <name>Nine Mile Draw</name>
+            <cmt>No Comment</cmt>
+            <desc>heading north (15min by feet) to dry creek </desc>
+        </rtept>
+        <rtept lon="-111.5148347671383106671783025376498699188232421875" lat="36.8899265186644669256565975956618785858154296875">
+            <name>DropOff</name>
+            <cmt>down the wash until this dropoff</cmt>
+            <desc>Description</desc>
+        </rtept>
+        <rtept lon="-111.5110074685870671373777440749108791351318359375" lat="36.8898889525938074029909330420196056365966796875">
+            <name>upAgain</name>
+            <cmt>back out of the canyon - heading west</cmt>
+            <desc>Description</desc>
+        </rtept>
+        <rtept lon="-111.5189586734413040858271415345370769500732421875" lat="36.889016162940833964967168867588043212890625">
+            <name>TrailEnd</name>
+            <cmt>No Comment</cmt>
+            <desc>View to Colorado / Canyon</desc>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Wildcat Tank</name>
+        <cmt>comment</cmt>
+        <desc>massive Hoodoos / View to Lake Powell</desc>
+        <rtept lon="-111.6037252042370795379611081443727016448974609375" lat="36.99153996552615097925809095613658428192138671875">
+            <name>Hoodoo</name>
+            <cmt>No Comment</cmt>
+            <desc>nice hoodoo (15min by foot)</desc>
+        </rtept>
+        <rtept lon="-111.6068467017950496256162296049296855926513671875" lat="36.99120855504917670941722462885081768035888671875">
+            <name>balanced Stone</name>
+            <cmt>No Comment</cmt>
+            <desc>300m west</desc>
+        </rtept>
+        <rtept lon="-111.6032362994995850158375105820596218109130859375" lat="36.9908213203985241079863044433295726776123046875">
+            <name>RestingPlace</name>
+            <cmt>No Comment</cmt>
+            <desc>Viewpoint</desc>
+        </rtept>
+        <rtept lon="-111.5986166213123311763411038555204868316650390625" lat="36.99213372651387743417217279784381389617919921875">
+            <name>RampUp</name>
+            <cmt>No Comment</cmt>
+            <desc>way up (1h) to the hoodoos</desc>
+        </rtept>
+        <rtept lon="-111.601967218861176434074877761304378509521484375" lat="36.9880694372269545056042261421680450439453125">
+            <name>Hoodoos</name>
+            <cmt>No Comment</cmt>
+            <desc>group of hoodoos</desc>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Blue Pool Wash</name>
+        <cmt>comment</cmt>
+        <desc>nice Arch / Slot Canyon</desc>
+        <rtept lon="-111.6178398844945860446387086994946002960205078125" lat="37.03596089821473213987701456062495708465576171875">
+            <name>ParkingPlace</name>
+            <cmt>No Comment</cmt>
+            <desc>Parking place / left on unpaved road </desc>
+        </rtept>
+        <rtept lon="-111.6346359557955594254963216371834278106689453125" lat="37.03288860323080911030046991072595119476318359375">
+            <name>BluePoolArch</name>
+            <cmt>No Comment</cmt>
+            <desc>3rd bay - continue to 4th</desc>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Wahweap Hoodoos</name>
+        <cmt>comment</cmt>
+        <desc>white hoodoos (7h)</desc>
+        <rtept lon="-111.68739614838051465994794853031635284423828125" lat="37.10433692790093829216857557184994220733642578125">
+            <name>Korall</name>
+            <cmt>from Big Water left Nipple Creek Road BLM 327</cmt>
+            <desc>Description</desc>
+        </rtept>
+        <rtept lon="-111.7092909164437202207409427501261234283447265625" lat="37.15551494598658877066554850898683071136474609375">
+            <name>Hoodoos I</name>
+            <cmt>No Comment</cmt>
+            <desc>group of hoodoos</desc>
+        </rtept>
+        <rtept lon="-111.7126898070585383493380504660308361053466796875" lat="37.1588747425067964513800689019262790679931640625">
+            <name>Hoodoos II</name>
+            <cmt>No Comment</cmt>
+            <desc>groupd of hoodoos</desc>
+        </rtept>
+        <rtept lon="-111.7112584382385165326923015527427196502685546875" lat="37.16068766731319783502840436995029449462890625">
+            <name>Hoodoos III</name>
+            <cmt>No Comment</cmt>
+            <desc>group of hoodoos</desc>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Buck Tank Draw</name>
+        <cmt>comment</cmt>
+        <desc>nice Arc / Slot Canyon</desc>
+        <rtept lon="-111.6970351982692903902716352604329586029052734375" lat="37.0852522497069685414317063987255096435546875">
+            <name>TrailHead</name>
+            <cmt>No Comment</cmt>
+            <desc>from Page Hw89 direction Kanab 2 miles after Big Water</desc>
+        </rtept>
+        <rtept lon="-111.704693782416171643490088172256946563720703125" lat="37.08241266897473309427368803881108760833740234375">
+            <name>MiniArch</name>
+            <cmt>No Comment</cmt>
+            <desc>240Grad SW (20 min by foot) </desc>
+        </rtept>
+        <rtept lon="-111.7299755918711952062949421815574169158935546875" lat="37.07071290170652133610929013229906558990478515625">
+            <name>Birthday Arch</name>
+            <cmt>No Comment</cmt>
+            <desc>coming from Buck Tank Draw (2km) exiting West
+See slot Canyon</desc>
+        </rtept>
+    </rte>
+    <rte>
+        <name>White Rocks I</name>
+        <cmt>comment</cmt>
+        <desc>Hoodoos / Slot Canyon</desc>
+        <rtept lon="-111.762977424901492895514820702373981475830078125" lat="37.09387829196688102229018113575875759124755859375">
+            <name>ChurchWells</name>
+            <cmt>No Comment</cmt>
+            <desc>from Page Hw 89 direction Kanab after Big Waters 
+BLM 435 (unpaved dirt road) straight! cross Coyote Gulch</desc>
+        </rtept>
+        <rtept lon="-111.7608938986264917048174538649618625640869140625" lat="37.13194823459264881648778100498020648956298828125">
+            <name>Trailhead</name>
+            <cmt>No Comment</cmt>
+            <desc>Sign End 435</desc>
+        </rtept>
+        <rtept lon="-111.750502418357172018659184686839580535888671875" lat="37.1444986431417447647618246264755725860595703125">
+            <name>Canyon</name>
+            <cmt>No Comment</cmt>
+            <desc>over dam wall </desc>
+        </rtept>
+        <rtept lon="-111.749975658896119057317264378070831298828125" lat="37.150451101282072841058834455907344818115234375">
+            <name>Fork</name>
+            <cmt>No Comment</cmt>
+            <desc>after 15min by foot - turn left</desc>
+        </rtept>
+        <rtept lon="-111.752804469309552359845838509500026702880859375" lat="37.15181228187358186687561101280152797698974609375">
+            <name>SlotCanyon</name>
+            <cmt>No Comment</cmt>
+            <desc>Slot Canyon entry </desc>
+        </rtept>
+        <rtept lon="-111.7518690078599092885269783437252044677734375" lat="37.152872836322757166271912865340709686279296875">
+            <name>WaybackMarker</name>
+            <cmt>No Comment</cmt>
+            <desc>after wayback from Slot Canyon - east wash - up</desc>
+        </rtept>
+        <rtept lon="-111.7490794119378421100918785668909549713134765625" lat="37.153205983608842188914422877132892608642578125">
+            <name>Viewpoint</name>
+            <cmt>No Comment</cmt>
+            <desc>Viewpoint on top of dryfall</desc>
+        </rtept>
+    </rte>
+    <rte>
+        <name>White Rocks II</name>
+        <cmt>comment</cmt>
+        <desc>Hoodoos</desc>
+        <rtept lon="-111.7608938986264917048174538649618625640869140625" lat="37.13194823459264881648778100498020648956298828125">
+            <name>Trailhead</name>
+            <cmt></cmt>
+            <desc>End of BLM 435</desc>
+        </rtept>
+        <rtept lon="-111.76260701426298282967763952910900115966796875" lat="37.1523174847547323906837846152484416961669921875">
+            <name>Hoodoos</name>
+            <cmt>No Comment</cmt>
+            <desc>on fork turn right
+Group of hoodoos</desc>
+        </rtept>
+    </rte>
+    <rte>
+        <name>White Rocks III</name>
+        <cmt>comment</cmt>
+        <desc>Hoodoos / Canyon</desc>
+        <rtept lon="-111.7608938986264917048174538649618625640869140625" lat="37.13194823459264881648778100498020648956298828125">
+            <name>Trailhead</name>
+            <cmt>No Comment</cmt>
+            <desc>End of Road BLM 435</desc>
+        </rtept>
+        <rtept lon="-111.7492757805413958749340963549911975860595703125" lat="37.1365832426128719134794664569199085235595703125">
+            <name>Hill</name>
+            <cmt>No Comment</cmt>
+            <desc>Way out of the canyon bearing 60°</desc>
+        </rtept>
+        <rtept lon="-111.7240040581499016525413026101887226104736328125" lat="37.15130665965093470504143624566495418548583984375">
+            <name>CanyonRim</name>
+            <cmt>No Comment</cmt>
+            <desc>bearing 41° 2,8 km 
+then down</desc>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Bridger Point</name>
+        <cmt>comment</cmt>
+        <desc>Viewpoint with little arch</desc>
+        <rtept lon="-111.847161413990789924355340190231800079345703125" lat="37.10310482841605761450409772805869579315185546875">
+            <name>Crossing Cedar Mountain Rd</name>
+            <cmt>No Comment</cmt>
+            <desc>from Paria Hw89 direction Kanab left to dirt road CMR</desc>
+        </rtept>
+        <rtept lon="-111.80075283281991005424060858786106109619140625" lat="37.0392663175070993020199239253997802734375">
+            <name>Crossing</name>
+            <cmt>No Comment</cmt>
+            <desc>after 2 miles fence, after 4,2 miles straight, right at 5,4 mi </desc>
+        </rtept>
+        <rtept lon="-111.8133103734675302121104323305189609527587890625" lat="37.00947086351192183428793214261531829833984375">
+            <name>Viewpoint</name>
+            <cmt>No Comment</cmt>
+            <desc>Paria Canyon View</desc>
+        </rtept>
+        <rtept lon="-111.815656195489509627805091440677642822265625" lat="37.0102029264040623957043862901628017425537109375">
+            <name>Julia Arch</name>
+            <cmt>No Comment</cmt>
+            <desc>Arch</desc>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Judd Hollow</name>
+        <cmt>comment</cmt>
+        <desc>View to Paria River Canyon</desc>
+        <rtept lon="-111.847161413990789924355340190231800079345703125" lat="37.10310482841605761450409772805869579315185546875">
+            <name>Crossing Cedar Mountain Rd</name>
+            <cmt>No Comment</cmt>
+            <desc>afterwards:
+
+2,0mi fence
+4,2 crossings
+5,4 crossings
+6,5 house
+7,7 fance again
+7,9 right!</desc>
+        </rtept>
+        <rtept lon="-111.80075283281991005424060858786106109619140625" lat="37.0392663175070993020199239253997802734375">
+            <name>Crossing</name>
+            <cmt>No Comment</cmt>
+            <desc>after 2 miles fence, after 4,2 miles straight, right at 5,4 mi </desc>
+        </rtept>
+        <rtept lon="-111.7577907930585041640370036475360393524169921875" lat="37.037439208320193984036450274288654327392578125">
+            <name>Crossing</name>
+            <cmt>No Comment</cmt>
+            <desc>right - small dirt rd </desc>
+        </rtept>
+        <rtept lon="-111.751649325182910388321033678948879241943359375" lat="37.031538052217769063645391725003719329833984375">
+            <name>Watertank Parking</name>
+            <cmt>No Comment</cmt>
+            <desc>parking</desc>
+        </rtept>
+        <rtept lon="-111.7513277949279171252783271484076976776123046875" lat="37.028574483351832213884335942566394805908203125">
+            <name>Ladder at rim</name>
+            <cmt>No Comment</cmt>
+            <desc>ladder down the rim</desc>
+        </rtept>
+        <rtept lon="-111.752328723125145870653796009719371795654296875" lat="37.0240431125865967487698071636259555816650390625">
+            <name>Wateringplace</name>
+            <cmt>No Comment</cmt>
+            <desc>down the wash</desc>
+        </rtept>
+        <rtept lon="-111.75176430834773100286838598549365997314453125" lat="37.01810645658891729681272408924996852874755859375">
+            <name>Mainwash Judd Hollow</name>
+            <cmt>No Comment</cmt>
+            <desc>follow wash southwest</desc>
+        </rtept>
+        <rtept lon="-111.7816625424718921522071468643844127655029296875" lat="36.9935033448833081592965754680335521697998046875">
+            <name>Viewpoint Paria Canyon</name>
+            <cmt>No Comment</cmt>
+            <desc>view to Adams Pump on Paria River</desc>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Paria Rimrocks I</name>
+        <cmt>comment</cmt>
+        <desc>Group of Hoodoos</desc>
+        <rtept lon="-111.87972335849173077804152853786945343017578125" lat="37.12190485886210211674551828764379024505615234375">
+            <name>Parking</name>
+            <cmt>No Comment</cmt>
+            <desc>From Page direction Kanab Hw 89 
+turn right to Cottonwood Canyon Road (mi 17-18)
+parking after 3mi</desc>
+        </rtept>
+        <rtept lon="-111.8840807862855655230305274017155170440673828125" lat="37.11424678234993024261711980216205120086669921875">
+            <name>Viewpoint Hoodoos</name>
+            <cmt>No Comment</cmt>
+            <desc>190°</desc>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Hidden Cache and Red Top</name>
+        <cmt>comment</cmt>
+        <desc>Paria Canyon</desc>
+        <rtept lon="-111.925376427384748012627824209630489349365234375" lat="37.2221679779895566753111779689788818359375">
+            <name>Parking</name>
+            <cmt>Hw 89 - Cottonwood Canyon Road - 11,8mi </cmt>
+            <desc>Description</desc>
+        </rtept>
+        <rtept lon="-111.9349480661868341258013970218598842620849609375" lat="37.2305385417352994181783287785947322845458984375">
+            <name>Trailhead Hidden Cache</name>
+            <cmt>cross Paria Canyon - Trail left</cmt>
+            <desc>Description</desc>
+        </rtept>
+        <rtept lon="-111.933003188375778336194343864917755126953125" lat="37.231887890549018038655049167573451995849609375">
+            <name>Top HiddenCache Trail</name>
+            <cmt>No Comment</cmt>
+            <desc>after 20min on track</desc>
+        </rtept>
+        <rtept lon="-111.932369445385376138801802881062030792236328125" lat="37.23260495486629650940813007764518260955810546875">
+            <name>Hidden Cache</name>
+            <cmt>No Comment</cmt>
+            <desc>SpyCave</desc>
+        </rtept>
+        <rtept lon="-111.9348517222125707348823198117315769195556640625" lat="37.234604428007429532954120077192783355712890625">
+            <name>Viewpoint RedTop</name>
+            <cmt>No Comment</cmt>
+            <desc>back and northwest</desc>
+        </rtept>
+        <rtept lon="-111.935573252866788607207126915454864501953125" lat="37.2355181149489027347954106517136096954345703125">
+            <name>Plateau</name>
+            <cmt>No Comment</cmt>
+            <desc>left out of wash</desc>
+        </rtept>
+        <rtept lon="-111.93688288276013054201030172407627105712890625" lat="37.23658037679803811670353752560913562774658203125">
+            <name>Potholes</name>
+            <cmt>No Comment</cmt>
+            <desc>Potholes bearing north</desc>
+        </rtept>
+        <rtept lon="-111.9375723176102610523230396211147308349609375" lat="37.23945025004514519650911097414791584014892578125">
+            <name>AfterSlotCanyon</name>
+            <cmt>No Comment</cmt>
+            <desc>from wash through slot - turn right (east) - bearing east/southeast</desc>
+        </rtept>
+        <rtept lon="-111.9344714243983816004401887767016887664794921875" lat="37.235761167618790068445377983152866363525390625">
+            <name>RedTop</name>
+            <cmt>No Comment</cmt>
+            <desc>Foto location</desc>
+        </rtept>
+        <rtept lon="-111.9394738545380363348158425651490688323974609375" lat="37.24095847242420376232985290698707103729248046875">
+            <name>Wayback</name>
+            <cmt>No Comment</cmt>
+            <desc>northwest </desc>
+        </rtept>
+        <rtept lon="-111.9408078618482562660574330948293209075927734375" lat="37.24215569910304424183777882717549800872802734375">
+            <name>BoxTrail</name>
+            <cmt>No Comment</cmt>
+            <desc>northwest </desc>
+        </rtept>
+        <rtept lon="-111.938807163731240734705352224409580230712890625" lat="37.23538435905620502808233140967786312103271484375">
+            <name>BoxCanyon</name>
+            <cmt>No Comment</cmt>
+            <desc>south </desc>
+        </rtept>
+        <rtept lon="-111.914337427132096536297467537224292755126953125" lat="37.1414731925327856743024312891066074371337890625">
+            <name>ColeMine</name>
+            <cmt>No Comment</cmt>
+            <desc>not worth going down</desc>
+        </rtept>
+        <rtept lon="-111.9497411244374376337873400188982486724853515625" lat="37.24604133804493955040015862323343753814697265625">
+            <name>Spencers Mining Camp</name>
+            <cmt>No Comment</cmt>
+            <desc>1km</desc>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Brigham Plains Road and Yellow Rock</name>
+        <cmt>comment</cmt>
+        <desc>Cockscomb Castle Rock Yellow Rock</desc>
+        <rtept lon="-111.91015770385041605550213716924190521240234375" lat="37.25202174878914007649655104614794254302978515625">
+            <name>Parking</name>
+            <cmt>on Cottonwood Road 14,3mi - after cattle guard right 
+BPR (BLM 430) </cmt>
+            <desc>Description</desc>
+        </rtept>
+        <rtept lon="-111.8991571822985093831448466517031192779541015625" lat="37.25150188729703160106510040350258350372314453125">
+            <name>Peak Viewpoint</name>
+            <cmt>No Comment</cmt>
+            <desc>follow road up - then north (1h)</desc>
+        </rtept>
+        <rtept lon="-111.9133167169681684072202187962830066680908203125" lat="37.2521596680268203272134996950626373291015625">
+            <name>Hackberry Canyon</name>
+            <cmt>No Comment</cmt>
+            <desc>short side Canyon - Yellow Rock Trail 1,5mi Box Trail</desc>
+        </rtept>
+        <rtept lon="-111.9142450920198115227321977727115154266357421875" lat="37.25433378636279257989372126758098602294921875">
+            <name>Top Yellow Rock Trail</name>
+            <cmt>No Comment</cmt>
+            <desc>now west</desc>
+        </rtept>
+        <rtept lon="-111.9196166230925655327155254781246185302734375" lat="37.25465273041982072754763066768646240234375">
+            <name>Trackpoint</name>
+            <cmt>No Comment</cmt>
+            <desc>Description</desc>
+        </rtept>
+        <rtept lon="-111.9256030340969942926676594652235507965087890625" lat="37.248080264556705287759541533887386322021484375">
+            <name>Viewpoint Yellow Rock Valley</name>
+            <cmt>No Comment</cmt>
+            <desc>southside up</desc>
+        </rtept>
+        <rtept lon="-111.9214160559963175955999759025871753692626953125" lat="37.25610795064752522876005969010293483734130859375">
+            <name>Scenic View</name>
+            <cmt>No Comment</cmt>
+            <desc>down again - scenic view</desc>
+        </rtept>
+        <rtept lon="-111.941578410414052768828696571290493011474609375" lat="37.26330437230104308810041402466595172882080078125">
+            <name>Hackberry Canyon View</name>
+            <cmt>No Comment</cmt>
+            <desc>view to Hackberry Canyon</desc>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Yellow Rock Valley</name>
+        <cmt>comment</cmt>
+        <desc>Red Top, Yellow Rock, Paria River</desc>
+        <rtept lon="-111.925376427384748012627824209630489349365234375" lat="37.2221679779895566753111779689788818359375">
+            <name>Trailhead Parking</name>
+            <cmt>No Comment</cmt>
+            <desc>to Box Canyon - rightside of Paria River </desc>
+        </rtept>
+        <rtept lon="-111.938807163731240734705352224409580230712890625" lat="37.23538435905620502808233140967786312103271484375">
+            <name>BoxTrail</name>
+            <cmt>No Comment</cmt>
+            <desc>2 caves on the left after 750m </desc>
+        </rtept>
+        <rtept lon="-111.9408078618482562660574330948293209075927734375" lat="37.24215569910304424183777882717549800872802734375">
+            <name>Box Trail Trackpoint</name>
+            <cmt>No Comment</cmt>
+            <desc>after 850m - then to Wash</desc>
+        </rtept>
+        <rtept lon="-111.9394738545380363348158425651490688323974609375" lat="37.24095847242420376232985290698707103729248046875">
+            <name>BoxTrail Wash</name>
+            <cmt>No Comment</cmt>
+            <desc>follow until slot canyon</desc>
+        </rtept>
+        <rtept lon="-111.9375723176102610523230396211147308349609375" lat="37.23945025004514519650911097414791584014892578125">
+            <name>Box Trail Slot Canyon</name>
+            <cmt>No Comment</cmt>
+            <desc>turn east - climb out of wash</desc>
+        </rtept>
+        <rtept lon="-111.9394738545380363348158425651490688323974609375" lat="37.24095847242420376232985290698707103729248046875">
+            <name>Red Top</name>
+            <cmt>No Comment</cmt>
+            <desc>scenic area - 1,5 km bearing NNW</desc>
+        </rtept>
+        <rtept lon="-111.93143239600618699114420451223850250244140625" lat="37.24257233169881686762892059050500392913818359375">
+            <name>Restingplace</name>
+            <cmt>No Comment</cmt>
+            <desc>scenic</desc>
+        </rtept>
+        <rtept lon="-111.9279189629248634219038649462163448333740234375" lat="37.24660194061078044569512712769210338592529296875">
+            <name>Wash Fork</name>
+            <cmt>No Comment</cmt>
+            <desc>keep left</desc>
+        </rtept>
+        <rtept lon="-111.92719804862866794792353175580501556396484375" lat="37.24850043665697540973269497044384479522705078125">
+            <name>End of Wash</name>
+            <cmt>No Comment</cmt>
+            <desc>view NNO</desc>
+        </rtept>
+        <rtept lon="-111.9275739693593578749641892500221729278564453125" lat="37.2506517338560030339067452587187290191650390625">
+            <name>ExitWash</name>
+            <cmt>West</cmt>
+            <desc>Description</desc>
+        </rtept>
+        <rtept lon="-111.929113020550090595861547626554965972900390625" lat="37.25201874165367144087213091552257537841796875">
+            <name>Trackpoint</name>
+            <cmt>No Comment</cmt>
+            <desc>way to Yellow Rock</desc>
+        </rtept>
+        <rtept lon="-111.9196166230925655327155254781246185302734375" lat="37.25465273041982072754763066768646240234375">
+            <name>Way Down YRT</name>
+            <cmt>No Comment</cmt>
+            <desc>follow track</desc>
+        </rtept>
+        <rtept lon="-111.9142450920198115227321977727115154266357421875" lat="37.25433378636279257989372126758098602294921875">
+            <name>DownTheDrain</name>
+            <cmt>No Comment</cmt>
+            <desc>down then east and Cottonwood Creek south</desc>
+        </rtept>
+    </rte>
+</gpx>
